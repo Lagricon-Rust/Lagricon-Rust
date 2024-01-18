@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/Lagricon-Rust?logo=github&style=for
     <a href="https://www.youtube.com/@lagricon3192/featured" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
-    <a href="https://vk.com/https://vk.com/odinok_l" target="_blank">
+    <a href="https://vk.com/odinok_l" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
