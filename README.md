@@ -1,74 +1,39 @@
+Hi 👋 My name is Lagricon
+=========================
 
-# Привет, меня зовут Lagricon!
+I'm a novice Rust developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT just began in November 2023, and I started learning Rust as my first programming language. I'm currently going through lectures on YouTube and using the beloved Rust book for my studies =) Due to my limited experience in IT and programming, I kindly ask for feedback on my social media to help me with my development in the IT field. I'm highly motivated, and anyone who wants to learn this beautiful programming language together, feel free to message me directly on Telegram!
 
----
+* 🌍  I'm based in Wien
+* ✉️  You can contact me at [ccffccf101@outlook.com](mailto:ccffccf101@outlook.com)
+* 🧠  I'm learning Rust
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I am studying Rust in the near future I will study more and more technologies, since the experience is still small, do not judge strictly)
 
-### :man_technologist: Обо мне:
+<a href="https://www.github.com/Lagricon-Rust" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Lagricon-Rust?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
-Я начинающий разработчик на Rust<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it только начался с ноября 2023 я начал изучать Rust как совой первый язык программирования, проходит мое обучение в лекциях на ютубе и через всеми любимый rustbook=) В связи с моим маленким оптытом в it и в программировании прошу присылать фитбэки на мои сотсети, дабы помочь мне с развитием в области it. Мотивации полно, кто захочет вместе изучать такой прекрасный язык прогрммировнаия пишите в директ в телеграмм!
-
-
-- :telescope: Изучаю Rust в скором времени буду изучать все больше технологий, так как опыт еще мал, не судите строго).
-
-- :seedling: RustBook!
-
-- :zap: Являюсь студентом Венского университета.
-- _Favorite programming language: Rust :crab:._  
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Lagricon_RUST-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lagricon_RUST) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ccffccf101@outlook.com)
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://t.me/Lagricon_RUST" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://www.youtube.com/@lagricon3192/featured" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>
-    <a href="https://vk.com/odinok_l" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
-
----
-
-### 💻 Технологии:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" title="git" alt="git" width="40" height="40"/>&nbsp
-</div>
-
----
-
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-</div>
-
----
+### Skills
 
 
+<p align="left">
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+</p>
 
-### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+### Socials
 
-### ⚙️ GitHub статистика:
+<p align="left"> <a href="https://discord.com/users/ferris_rust" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Lagricon-Rust" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@lagricon3192" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Lagricon-Rust&theme=2077" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lagricon-Rust&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+### Badges
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lagricon-Rust)
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Lagricon-Rust"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lagricon-Rust&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/lagricon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
