@@ -1,23 +1,23 @@
 
-# Привет, меня зовут Алексей!
+# Привет, меня зовут Lagricon!
 
 ---
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
+Я начинающий разработчик на Rust<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it только начался с ноября 2023 я начал изучать Rust как совой первый язык программирования, проходит мое обучение в лекциях на ютубе и через всеми любимый rustbook=) В связи с моим маленким оптытом в it и в программировании прошу присылать фитбэки на мои сотсети, дабы помочь мне с развитием в области it. Мотивации полно, кто захочет вместе изучать такой прекрасный язык прогрммировнаия пишите в директ в телеграмм!
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :telescope: Изучаю Rust в скором времени буду изучать все больше технологий, так как опыт еще мал, не судите строго).
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :seedling: RustBook!
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- :zap: Являюсь студентом Венского университета.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Lagricon_RUST-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lagricon_RUST) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
 ---
 
